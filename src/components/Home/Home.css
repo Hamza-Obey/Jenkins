@@ -1,0 +1,23 @@
+.titre {
+    
+    margin-bottom: 2cm;
+    background-color: #f0f3f7;
+    padding : 1cm 2cm ;
+    margin-top: 0.7cm;
+    display: block;
+
+  text-align: center ;
+  box-sizing: border-box ;
+  border-right: 10px;
+  
+
+}
+.selling {
+    font-size: 0.5cm;
+}
+.store {
+    font-size: 1.2cm;
+}
+.Home1{
+    margin-top: 1cm;
+}

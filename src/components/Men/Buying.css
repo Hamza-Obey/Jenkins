@@ -1,0 +1,13 @@
+.Card {
+    width : 35cm ;
+    display: flex;
+    margin-top: 2cm;
+    margin-bottom: 0cm;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Car{
+    display: flex;
+    flex-direction: row;
+}

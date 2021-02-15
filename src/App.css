@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  text-align: center;
+}
+.Wo {
+  text-align: center;
+  margin-top: 0.5cm ;
+  margin-bottom: 0.5cm ;
+}
+

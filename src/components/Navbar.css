@@ -1,0 +1,33 @@
+.Home {
+    
+    color: red;
+    width: 7%;
+
+}
+.Men {
+    color:green;
+    width: 6%;
+
+}
+.Women {
+    width: 4%;
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+.Navbar ul {
+    padding: 25px;
+    background-color: rgba(253, 250, 250, 0.856);
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    
+
+    
+}
+.Clothes {
+    width :90% ;
+    color: seagreen;
+}
+     
