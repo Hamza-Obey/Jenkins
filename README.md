@@ -1,3 +1,5 @@
+[![Build Status](http://10.157.139.139:8080/buildStatus/icon?job=personal-git)](http://10.157.139.139:8080/job/personal-git/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
